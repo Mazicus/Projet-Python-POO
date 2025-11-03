@@ -1,10 +1,4 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-Converted from Jupyter Notebook: notebook.ipynb
-Conversion Date: 2025-11-03T20:26:35.788Z
-"""
-
 import sqlite3
 import pandas as pd
 from tkinter import *
